@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,600&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script&family=Parisienne&display=swap');
+
+:root{
+    --main-bg-color: brown;
+    --font1: 'Lobster', cursive;
+    --font2: 'Crimson Text', serif;
+    --font3: 'Courgette', cursive;
+
+     
+    
+}
+
+.max-width-1{
+    max-width: 80vw;
+}
+
+.max-width-2{
+    max-width: 60vw;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+.btn{
+
+}
